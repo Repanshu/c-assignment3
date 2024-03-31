@@ -1,0 +1,14 @@
+c:\Users\Repanshu\OneDrive\Desktop\W24\c#\assignment 3\bin\Debug\net8.0\assignment 3.exe
+c:\Users\Repanshu\OneDrive\Desktop\W24\c#\assignment 3\bin\Debug\net8.0\assignment 3.deps.json
+c:\Users\Repanshu\OneDrive\Desktop\W24\c#\assignment 3\bin\Debug\net8.0\assignment 3.runtimeconfig.json
+c:\Users\Repanshu\OneDrive\Desktop\W24\c#\assignment 3\bin\Debug\net8.0\assignment 3.dll
+c:\Users\Repanshu\OneDrive\Desktop\W24\c#\assignment 3\bin\Debug\net8.0\assignment 3.pdb
+c:\Users\Repanshu\OneDrive\Desktop\W24\c#\assignment 3\obj\Debug\net8.0\assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Repanshu\OneDrive\Desktop\W24\c#\assignment 3\obj\Debug\net8.0\assignment 3.AssemblyInfoInputs.cache
+c:\Users\Repanshu\OneDrive\Desktop\W24\c#\assignment 3\obj\Debug\net8.0\assignment 3.AssemblyInfo.cs
+c:\Users\Repanshu\OneDrive\Desktop\W24\c#\assignment 3\obj\Debug\net8.0\assignment 3.csproj.CoreCompileInputs.cache
+c:\Users\Repanshu\OneDrive\Desktop\W24\c#\assignment 3\obj\Debug\net8.0\assignment 3.dll
+c:\Users\Repanshu\OneDrive\Desktop\W24\c#\assignment 3\obj\Debug\net8.0\refint\assignment 3.dll
+c:\Users\Repanshu\OneDrive\Desktop\W24\c#\assignment 3\obj\Debug\net8.0\assignment 3.pdb
+c:\Users\Repanshu\OneDrive\Desktop\W24\c#\assignment 3\obj\Debug\net8.0\assignment 3.genruntimeconfig.cache
+c:\Users\Repanshu\OneDrive\Desktop\W24\c#\assignment 3\obj\Debug\net8.0\ref\assignment 3.dll
